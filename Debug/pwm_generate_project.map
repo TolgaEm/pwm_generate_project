@@ -2307,14 +2307,14 @@ LOAD c:/st/stm32cubeide_1.9.0/stm32cubeide/plugins/com.st.stm32cube.ide.mcu.exte
  .debug_macro   0x000000000001520a      0x184 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
  .debug_macro   0x000000000001538e      0x196 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
-.debug_line     0x0000000000000000     0x362f
- .debug_line    0x0000000000000000      0x7b8 ./Core/Src/main.o
- .debug_line    0x00000000000007b8      0x6e7 ./Core/Src/stm32f1xx_it.o
- .debug_line    0x0000000000000e9f      0x6a3 ./Core/Src/system_stm32f1xx.o
- .debug_line    0x0000000000001542       0x87 ./Core/Startup/startup_stm32f103rbtx.o
- .debug_line    0x00000000000015c9      0x8d0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
- .debug_line    0x0000000000001e99      0xab8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
- .debug_line    0x0000000000002951      0xcde ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
+.debug_line     0x0000000000000000     0x3631
+ .debug_line    0x0000000000000000      0x7ba ./Core/Src/main.o
+ .debug_line    0x00000000000007ba      0x6e7 ./Core/Src/stm32f1xx_it.o
+ .debug_line    0x0000000000000ea1      0x6a3 ./Core/Src/system_stm32f1xx.o
+ .debug_line    0x0000000000001544       0x87 ./Core/Startup/startup_stm32f103rbtx.o
+ .debug_line    0x00000000000015cb      0x8d0 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal.o
+ .debug_line    0x0000000000001e9b      0xab8 ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_cortex.o
+ .debug_line    0x0000000000002953      0xcde ./Drivers/STM32F1xx_HAL_Driver/Src/stm32f1xx_hal_rcc.o
 
 .debug_str      0x0000000000000000    0x7b5e7
  .debug_str     0x0000000000000000    0x7a914 ./Core/Src/main.o
